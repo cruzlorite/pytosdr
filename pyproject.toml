@@ -8,7 +8,7 @@ version = "1.0.0"
 authors = [
   { name="José María Cruz Lorite", email="josemariacruzlorite@gmail.com" },
 ]
-description = "PyToS;DR is a Python package that simplifies accessing and interpreting Terms of Service and Privacy Policies, drawing directly from the ToS;DR GitHub repository"
+description = "PyToS;DR is a Python package that enables the user to operate with documents from the ToS;DR project, drawing directly from their GitHub repository."
 readme = "README.md"
 classifiers = [
     "Programming Language :: Python :: 3",
