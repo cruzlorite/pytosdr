@@ -27,7 +27,7 @@ pip install git+https://github.com/cruzlorite/pytosdr.git
 
 ## Usage
 
-Here is an example of how to use the GlossBERT class:
+Here is an example of how to use `pytosdr`:
 
 ```python
 >>> from pytosdr import ToS
