@@ -1,6 +1,9 @@
 name: Publish Python 🐍 distribution 📦 to PyPI
 
-on: workflow_dispatch
+on:
+  push:
+    tags:
+    - 'v*'
 
 jobs:
   build:
