@@ -2,8 +2,8 @@
 
 ![PyPI Version](https://img.shields.io/pypi/v/pytosdr)
 ![Python Versions](https://img.shields.io/pypi/pyversions/pytosdr)
-![License](https://img.shields.io/pypi/l/glossbert)
-[![Publish Python 🐍 distribution 📦 to PyPI](https://github.com/cruzlorite/pytosdr/actions/workflows/publish-pypi.yaml/badge.svg)](https://github.com/cruzlorite/glossbert/actions/workflows/publish-pypi.yaml)
+![License](https://img.shields.io/pypi/l/pytosdr)
+[![Publish Python 🐍 distribution 📦 to PyPI](https://github.com/cruzlorite/pytosdr/actions/workflows/publish-pypi.yaml/badge.svg)](https://github.com/cruzlorite/pytosdr/actions/workflows/publish-pypi.yaml)
 
 
 ## Features
